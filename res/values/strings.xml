@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, wordpuzzleActivity!</string>
+    <string name="app_name">wordpuzzle</string>
+    <string name="Level">Level</string>
+    <string name="Score">Score:</string>
+    <string name="Time">Time</string>
+    <string name="Target">Target:</string>
+    <string name="target_score">tar</string>
+    <string name="cur_score">scr</string>
+    <string name="help">help</string>
+    <string name="found_words">Words found :- </string>
+    <string name="make_words">Tap on letters to make words</string>
+    <string name="cur_level">lev</string>
+    <string name="text1">1</string>
+    <string name="Submit">submit</string>
+    <string name="shuffle">shuffle</string>
+    <string name="empty"></string>
+    <string name="clear">clear</string>
+    <string name="one">1</string>
+    <string name="asd">a</string>
+    <string name="title">Word Puzzle</string>
+    <string name="start">START GAME</string>
+    <string name="helptext">Rules: Form small words from the eight letter jumbled word and reach the target score before the time runs out!!!</string>
+
+</resources>
